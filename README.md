@@ -25,10 +25,6 @@ Set Up Electronics: Use the schematics and firmware in the electronics/ director
 
 Run Experiments: Utilize the software in the software/ directory to conduct experiments and analyze data.
 
-**Contributing:**
-
-We welcome contributions from the community! Whether you're interested in improving the design, adding new features, or conducting experiments, your input is valuable. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
-
 **Contact:**
 
 For any questions or collaborations, please open an issue or contact the repository maintainers directly.
